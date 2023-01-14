@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-14T03:26:51.537Z</updated>
+  <updated>2023-01-14T02:42:14.150Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,29 +17,10 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Seeking Stars or Becoming Stars</title>
-    <link href="http://example.com/2023/01/14/Tower%20of%20God/"/>
-    <id>http://example.com/2023/01/14/Tower%20of%20God/</id>
-    <published>2023-01-14T02:02:44.000Z</published>
-    <updated>2023-01-14T03:26:51.537Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Review-of-Tower-of-God"><a href="#Review-of-Tower-of-God" class="headerlink" title="Review of Tower of God"></a>Review of <em>Tower of God</em></h1><p><strong>————–Spoiler Alert————–</strong></p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><blockquote><p>Reach the top, and everything will be yours. <br />At the top of the tower exists everything in this world, and all of it can be yours.</p><footer><strong>Voice-over</strong><cite>Tower of God</cite></footer></blockquote><p>This is a classical story with many groups climbing the tower. But this time, one of the antagonists is the girl in leading role. Of course, it is revealed at the end of the story as a plot twist, and there are lots of hints to imply this fact. But still, its clever design sets me thinking.</p><h2 id="Part-I"><a href="#Part-I" class="headerlink" title="Part I"></a>Part I</h2><h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><ul><li>Tel: <code>+8618367792853</code></li><li>Email: <code>linzixiang@sjtu.edu.cn</code></li></ul>]]></content>
-    
-    
-    <summary type="html">Tower of God</summary>
-    
-    
-    
-    <category term="Animation" scheme="http://example.com/categories/Animation/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Data Feast in Fuzhou</title>
-    <link href="http://example.com/2023/01/12/STAT3060J/"/>
-    <id>http://example.com/2023/01/12/STAT3060J/</id>
-    <published>2023-01-12T15:15:42.330Z</published>
+    <link href="http://example.com/2023/01/15/STAT3060J/"/>
+    <id>http://example.com/2023/01/15/STAT3060J/</id>
+    <published>2023-01-14T16:02:52.005Z</published>
     <updated>2023-01-14T02:42:14.150Z</updated>
     
     <content type="html"><![CDATA[<h1 id="STAT3060J-Computational-Thinking-with-Data-Case-study-with-local-community-in-Fuzhou"><a href="#STAT3060J-Computational-Thinking-with-Data-Case-study-with-local-community-in-Fuzhou" class="headerlink" title="STAT3060J Computational Thinking with Data: Case study with local community in Fuzhou"></a>STAT3060J Computational Thinking with Data: <br />Case study with local community in Fuzhou</h1><ul><li>Winter Program</li></ul><h2 id="Brief-Introduction"><a href="#Brief-Introduction" class="headerlink" title="Brief Introduction"></a>Brief Introduction</h2><h3 id="Info"><a href="#Info" class="headerlink" title="Info"></a>Info</h3><ul><li>Instructor: <code>Ailing Zhang</code></li><li>Dates: <code>2023/01/01</code>-<code>2023/01/12</code></li></ul><h3 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h3><blockquote><p>In this course, we will emphasize the use of computation to gain insight about quantitative problems with real data from the social sciences (for example, the smart community in Fuzhou).  The course will cover computational thinking and quantitative reasoning, to better prepare the students for further coursework in data science, computer science, and statistics.</p><p>We aim to dive deeper into Python and its applications in data science in this course. Moreover, we will cover best practices with software engineering for data science and project management. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science — we will teach you everything you need to succeed.</p><p>At the same time, you will need to identify and organize the project by your own through interactions with stakeholders, government, and end-user. You will explore how to start an investigation with a question and how to collect the dataset from scratch and aggregate data from different sources. You will leave the course being able to independently apply the skills you’ve learned to datasets of your own choosing.</p><footer><strong>International Programs Office</strong><cite>Announcement</cite></footer></blockquote><h2 id="Blog"><a href="#Blog" class="headerlink" title="Blog"></a>Blog</h2><ul><li><a href="https://github.com/Dzsyang/dzsyang.github.io/raw/main/2023/01/12/STAT3060J/Blog%20of%2023WP.pdf">Download Blog</a>.</li></ul><h3 id="Learnings"><a href="#Learnings" class="headerlink" title="Learnings"></a>Learnings</h3><ul><li>Python and Jupyter Notebook</li></ul><h3 id="Visiting"><a href="#Visiting" class="headerlink" title="Visiting"></a>Visiting</h3><ul><li>Mount Wuyi</li><li>Jinshan Street (including Zhongtian community…)</li><li>Tencent Start Industry Base (Fuzhou)</li></ul><h2 id="Project-Link"><a href="#Project-Link" class="headerlink" title="Project Link"></a>Project Link</h2><p>Because our project has had a website to show it, I just put the link here.</p><ul><li><a href="https://dzsyang.love/STAT3060J/">https://dzsyang.love/STAT3060J/</a>.</li></ul><p>This is our final work in this course.</p><h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><ul><li>Tel: <code>+8618367792853</code></li><li>Email: <code>linzixiang@sjtu.edu.cn</code></li></ul>]]></content>
